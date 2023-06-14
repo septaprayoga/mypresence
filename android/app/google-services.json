@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "247800773705",
+    "project_id": "mypresence-8dfa9",
+    "storage_bucket": "mypresence-8dfa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247800773705:android:56cc622004f48ecbc7d398",
+        "android_client_info": {
+          "package_name": "com.alipproject.mypresence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247800773705-nv8jsckvjhv9m0fhu8r4j3qtbvjtqog0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnuKw8_7d2N7VU98YJP9KqJDrM4bIf7EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247800773705-nv8jsckvjhv9m0fhu8r4j3qtbvjtqog0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247800773705-sfgkb4uvlc3ohvc3gfaq9ao08bgbierd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alipproject.mypresence"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
